@@ -2,7 +2,7 @@
 title: 纸谈
 SEOTitle: 纸谈——思考不辍
 header-img: img/post-bg-desk.jpg
-email: klovien@gmail.com
+email: none4name@outlook.com
 description: "读书，学习，思考，记录"
 keyword: "读书，数学，物理，计算机，人工智能"
 url: "https://zhitan4.github.io"          # your host, for absolute URL
@@ -11,8 +11,8 @@ github_repo: "https://github.com/zhitan4/zhitan4.github.io.git" # you code repos
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you're going to be!"
-sidebar-avatar: /img/about-HJ.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "Take pains, be perfect."
+sidebar-avatar: /img/OIG.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
