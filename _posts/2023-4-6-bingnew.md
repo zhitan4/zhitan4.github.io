@@ -1,4 +1,14 @@
-
+--
+layout:     post
+title:      纸谈
+subtitle:   博客纪念
+date:       2023-3-22
+author:     无音
+header-img: img/post-bg-cook.jpg
+catalog: true
+tags:
+    - 动态
+---
 
 人之初性本恶还是性本善，这是一个古老而又永恒的哲学问题。不同的思想家和文化有不同的观点和论据，但没有一个能够完全说服所有的人。在这篇博客文章中，我将用markdown语言讲述一下人之初性本恶以及人之初性本善的历史依据，希望能给读者一些启发和思考。
 
